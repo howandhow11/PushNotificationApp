@@ -43,6 +43,10 @@ A React Native Firebase app with Authentication, Push Notifications, Scheduled N
 
 <img width="1536" height="1024" alt="app-preview png" src="https://github.com/user-attachments/assets/32dd3757-104e-411b-91ae-70669a016551" />
 
+## 📥 Download APK
+
+[Download APK Here](https://drive.google.com/file/d/11bzcg0988CrabfbpJMGsN4KjbnHmv-i_/view?usp=sharing)
+
 
 ### 🔔 Send Instant Notification
 
